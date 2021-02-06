@@ -20,3 +20,4 @@ To build a multi-class classifier app which can classify the inputted image of a
   - ABOUT option: to know about the app Visual Chatbot  
   - CHATBOT option: chatbot which includes the classifier
 
+![alt text](https://github.com/dawnzachariah/Project1_Visual_Chatbot/blob/main/UI_Screenshot_Visual_Chatbot.jpg?raw=true)
